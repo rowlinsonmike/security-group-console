@@ -10,7 +10,7 @@ export default defineConfig({
       logo: { src: "/src/assets/sgc-logo.svg" },
       title: "",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/rowlinsonmike/security-group-console",
       },
       sidebar: [
         {
